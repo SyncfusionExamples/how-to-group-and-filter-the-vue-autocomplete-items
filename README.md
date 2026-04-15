@@ -1,6 +1,20 @@
 # How to Group and Filter the Vue AutoComplete Items of Syncfusion
 
-Get a quick overview on how to group and filter items in Vue AutoComplete. You will learn how to group the Vue AutoComplete items as well as how to filter those items. You will also see different filter types in AutoComplete, how to apply those filters to items, and how to include diacritic characters.
+## Repository Description
+
+This repository demonstrates how to implement grouping and filtering capabilities in Vue AutoComplete components using the Syncfusion Vue library, with practical examples for organizing autocomplete items into groups and applying various filtering techniques.
+
+## Overview
+
+Learn how to group and filter items in Vue AutoComplete, implement different filter types, and include diacritic character support for enhanced user experience.
+
+## Features
+
+- **Item Grouping**: Organize autocomplete items into logical groups
+- **Filtering Capabilities**: Multiple filter types for narrowing suggestions
+- **Diacritic Support**: Handle special characters and accented letters
+- **Icon Support**: Display icons alongside grouped items
+- **Real-time Search**: Dynamically filter items as users type
 
 Documentation Links: 
 https://ej2.syncfusion.com/vue/documentation/auto-complete/grouping
